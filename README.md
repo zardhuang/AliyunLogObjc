@@ -17,7 +17,7 @@ github "lujiajing1126/AliyunLogObjc"
 ### Cocoapods
 
 ```
-pod 'AliyunSlsObjc', '~> 1.2.0'
+pod 'AliyunSlsObjc', '~> 1.3.0'
 ```
 
 ## Example
@@ -41,7 +41,7 @@ Log *log1 = [[Log alloc] init];
 ## 常见问题
 
   - 由于最新版本引入了`SLS`的`protobuf`协议，编译如果找不到相应的协议文件，
-请参考 [Issue #17](https://github.com/lujiajing1126/AliyunLogObjc/issues/17)
+请参考 [Issue #17](https://github.com/zardhuang/AliyunLogObjc/issues/17)
 
 ## Acknownledge
 
